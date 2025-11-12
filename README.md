@@ -1,11 +1,11 @@
 <!-- Profile README for Limberg Ruiz Parejas -->
-<!-- Tip: este archivo vive en https://github.com/LimbergRuizParejas/LimbergRuizParejas -->
+<!-- Este archivo vive en https://github.com/LimbergRuizParejas/LimbergRuizParejas -->
 
 <h1 align="center">¡Hola, soy Limberg Ruiz Parejas! 👋</h1>
-<h3 align="center">💻 Estudiante de Ingeniería en Sistemas Informáticos y Software · Santa Cruz de la Sierra 🇧🇴</h3>
+<h3 align="center">Full-Stack Developer · NestJS · React/TypeScript · PostgreSQL · Data Analytics · Santa Cruz 🇧🇴</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Web+y+M%C3%B3vil;Apasionado+por+el+dise%C3%B1o+de+software;Siempre+aprendiendo+algo+nuevo+🚀&center=true&width=850&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+(NestJS,+React,+TS);APIs+REST+%7C+Arquitectura+limpia;Data+Analytics+%7C+Automatizaci%C3%B3n;Siempre+aprendiendo+algo+nuevo+🚀&center=true&width=950&size=22" />
 </p>
 
 <p align="center">
@@ -16,25 +16,28 @@
 </p>
 
 <p align="center">
-  <a href="#-sobre-mí">Sobre mí</a> •
-  <a href="#-tecnologías">Tecnologías</a> •
-  <a href="#-proyectos-destacados">Proyectos</a> •
-  <a href="#-estadísticas">Estadísticas</a> •
-  <a href="#-contacto">Contacto</a>
+  <a href="#sobre-mi">Sobre mí</a> •
+  <a href="#tecnologias">Tecnologías</a> •
+  <a href="#proyectos">Proyectos</a> •
+  <a href="#experiencia">Experiencia</a> •
+  <a href="#estadisticas">Estadísticas</a> •
+  <a href="#contacto">Contacto</a>
 </p>
 
 ---
 
+<a name="sobre-mi"></a>
 ### 🌟 Sobre mí
 
-- 🎯 Me apasionan la **tecnología**, la **programación** y el **diseño de software**.
-- 🌱 Actualmente profundizo en **Desarrollo Web**, **Móviles** y **Sistemas Inteligentes**.
-- 🧪 Experiencia en proyectos reales: **Tiendas Éxito** y **Cap.Edu**.
-- 💬 Pregúntame sobre: **JavaScript, TypeScript, Python, React, Node.js, Java, Dart, Flutter**.
-- 🧠 Filosofía: *aprender — construir — compartir*.
+- 🎓 Estudiante de **Ingeniería de Sistemas (Universidad Nur)** y **Full-Stack Developer**.
+- 🧱 Construyo productos con **NestJS · Node.js · React/TypeScript · PostgreSQL** aplicando **arquitectura limpia**, patrones y buenas prácticas (ESLint, Prettier, testing).
+- 🛍️ Experiencia en **retail** (**Tiendas Éxito**: inventario, ventas, facturación, POS) y **EdTech** (plataformas de capacitación).
+- 🤖 Intereses: **automatización**, **chatbots**, **OCR**, **pronóstico de demanda** y **analytics** para decisiones.
+- 🧠 Filosofía: *aprender → construir → compartir*.
 
 ---
 
+<a name="tecnologias"></a>
 ### 🧰 Tecnologías
 
 **Frontend**
@@ -44,23 +47,32 @@
 
 **Backend & APIs**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,py,fastapi" />
 </p>
 
-**Móvil & Cross-platform**
+**Bases de datos & ORM**
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma" />
 </p>
 
-**Base de datos, DevOps y Herramientas**
+**DevOps & Herramientas**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,figma,vscode" />
+</p>
+
+**Analytics (badges)**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Tableau-Data%20Viz-0e76a8?style=for-the-badge&logo=tableau" />
+  <img src="https://img.shields.io/badge/Excel-Avanzado-217346?style=for-the-badge&logo=microsoft-excel" />
 </p>
 
 ---
 
+<a name="proyectos"></a>
 ### 🚀 Proyectos Destacados
 
+<!-- Repos públicos con tarjetas -->
 <p align="center">
   <a href="https://github.com/LimbergRuizParejas/Proyecto_Final_Web_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimbergRuizParejas&repo=Proyecto_Final_Web_2&theme=tokyonight" />
@@ -71,27 +83,41 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LimbergRuizParejas/Proyecto_Final_Web2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimbergRuizParejas&repo=Proyecto_Final_Web2&theme=tokyonight" />
-  </a>
   <a href="https://github.com/LimbergRuizParejas/Amazon-Sales-Dataset_2_Parcial">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimbergRuizParejas&repo=Amazon-Sales-Dataset_2_Parcial&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/LimbergRuizParejas/TiendaTarea">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimbergRuizParejas&repo=TiendaTarea&theme=tokyonight" />
   </a>
   <a href="https://github.com/LimbergRuizParejas/Aplicacion_Arrendatario-React-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimbergRuizParejas&repo=Aplicacion_Arrendatario-React-&theme=tokyonight" />
   </a>
 </p>
 
-> 🎒 Más proyectos en mis repos públicos: móviles, web, datasets y utilidades.
+> 🎒 Más proyectos en mis repos públicos (web, móviles, datasets y utilidades).
+
+**Casos reales (privados)**
+- **Tiendas Éxito (2024–2025):** plataforma retail con **NestJS + React + PostgreSQL**, módulos de **inventario, ventas, facturación, POS** y **analytics**.
+- **PGS (2024–2025):** plataforma de **capacitación interna** (cursos, evaluaciones, certificaciones) con **NestJS**, **React/TS** y **BunnyCDN**.
 
 ---
 
+<a name="experiencia"></a>
+### 💼 Experiencia (resumen)
+
+**TIENDAS ÉXITO — Full-Stack Developer (jun. 2024 – actualidad)**
+- Backend **NestJS** (módulos, guards, interceptors) + **PostgreSQL**; Frontend **React + TS + Vite + Tailwind**.
+- Funcionalidades: **inventario, ventas, facturación, atención al cliente, POS web**.
+- Integraciones: **JWT/OAuth**, OCR para caducidades, reportes y notificaciones.
+- **Analytics** para soporte a decisiones y automatización de procesos.
+
+**TIENDAS ÉXITO — Gerente General (ene. 2024 – actualidad)**
+- Dirección y **transformación digital**: automatización, IA aplicada y data-driven decisions.
+
+**PGS — Full-Stack (nov. 2024 – ene. 2025)**
+- Plataforma de formación: **React/TS** (UI responsiva) + **NestJS** (APIs REST, OAuth).
+- Video con **BunnyCDN**, evaluaciones/certificaciones y notificaciones automatizadas.
+
+---
+
+<a name="estadisticas"></a>
 ### 📊 Estadísticas
 
 <p align="center">
@@ -118,18 +144,18 @@
 
 ### 🏆 Logros
 
-- 🎓 Estudiante destacado en **Diseño y Desarrollo de Software**.  
-- 🧩 Desarrollo de **plataformas completas** (frontend + backend + BD).  
-- 🤝 Experiencia colaborativa en proyectos universitarios (**algorítmica**, **IA aplicada**).  
+- Desarrollo de **plataformas completas** (frontend + backend + BD) con foco en escalabilidad y mantenibilidad.
+- Experiencia colaborativa en **algorítmica**, **IA aplicada** y **data analytics**.
+- Liderazgo y dirección de iniciativas de **transformación digital** en retail.
 
 ---
 
 ### ✨ Frase que me representa
-
 > *"El código es arte, y cada error es una oportunidad para crear algo mejor."* 🎨
 
 ---
 
+<a name="contacto"></a>
 ### 📫 Contacto
 
 <p align="center">
