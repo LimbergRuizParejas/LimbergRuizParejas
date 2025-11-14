@@ -167,5 +167,5 @@
 ---
 
 <p align="center">
-  💙 Desarrollado con pasión por <strong>Limberg Ruiz Parejas</strong> • <a href="#top">⬆ Volver al inicio</a>
+  💙 Desarrollado con creatividad y con pasión por <strong>Limberg Ruiz Parejas</strong> • <a href="#top">⬆ Volver al inicio</a>
 </p>
